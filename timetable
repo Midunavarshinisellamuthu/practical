@@ -1,0 +1,115 @@
+<!doctype html>
+<html>
+<body>
+
+<table border="2" STYLE-WIDTH="100" HEIGHT="50">
+
+<tr>
+
+<th ROWSPAN="2">DAYS</th>
+
+<th COLSPAN="11">TIME TABLE</TH>
+
+</TR>
+
+<TR>
+
+<TD>08.30-09.30</TD>
+
+<TD>09.30-10.30</TD>
+
+<TD>10.30-10.50</TD>
+
+<TD>10.50-11.50</TD>
+
+ <TD>11.50-12.50</TD>
+
+<TD>12.50-01.50</TD> 
+<TD>01.50-02.00</TD>
+
+</TR>
+
+<TR>
+
+<TD>MONDAY</TD>
+
+<TD>PC</TD> 
+<TD>CHE</TD>
+
+<TD ROWSPAN="6"><CENTER>BREAK</TD>
+
+<TD>MAT</TD>
+
+<TD>PSD</TD>
+
+<TD ROWSPAN="6">LUNCHBREAK</TD>
+
+<TD>TAM</TD> </TR>
+
+ <TR>
+
+<TD>TUESDAY</TD>
+
+<TD>PC</TD>
+
+<TD>PSD</TD> <TD>CHE</TD>
+
+<TD>TAM</TD> <TD>MAT</TD>
+
+</TR>
+
+<TR>
+
+<TD>WEDNESDY</TD>
+
+<TD COLSPAN="2"><CENTER>PC</TD>
+
+<TD>MAT</TD>
+
+<TD>PSD</TD>
+<TD>ENG</TD>
+
+</TR>
+<TR>
+
+<TD>THURSDAY</TD>
+
+<TD COLSPAN="2"><CENTER>PSD</TD>
+
+<TD>ENG</TD>
+
+<TD>CHEM</TD>
+
+<TD> MAT <TD>
+
+</TR>
+<TR>
+
+<TD>FRIDAY</TD>
+
+<TD COLSPAN="2"> <CENTER>PSDLAB</TD>
+
+<TD>PC</TD>
+
+<TD>TAM</TD>
+
+<TD>PSD</TAM>
+</TR>
+
+<TR>
+<TD>SATURDAY</TD>
+
+<TD>TAM<TD>
+
+<TD>CHE</TD> 
+<TD>ENG</TD>
+
+<TD>SPD</TD>
+
+
+</TR>
+</TABLE>
+
+</BODY>
+
+</HTML>
